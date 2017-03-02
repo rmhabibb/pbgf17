@@ -1,0 +1,39 @@
+       table {
+        margin: 0 auto; 
+      } 
+      .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#ccc;color:#333;background-color:#fff;}
+      #th{
+          font-family:Arial, sans-serif;
+          font-size:14px;
+          font-weight:normal;
+          padding:10px 5px;
+          border-style:solid;
+          border-width:1px;
+          overflow:hidden;
+          word-break:normal;
+          border-color:#ccc;
+          color:#333;
+          background-color:#f0f0f0;
+        }
+      .tg .tg-amwm{font-weight:bold;vertical-align:top}
+      .tg .tg-yw4l{vertical-align:top}
+      .tg .tg-i81m{background-color:#ffffff;text-align:left; padding-left: 10px}
+      .tg .tg-3we0{background-color:#ffffff;vertical-align:top}
+
+      td h2{
+        text-align: center;
+      }
+      #unsri {     
+        float: left;
+        width: 100px; 
+      }
+
+      #bem { 
+        float: right;
+        width: 100px; 
+      } 
+      #ibgf { 
+        float: right;
+        width: 100px; 
+      } 
+ 
