@@ -189,7 +189,7 @@
                 </div> 
                 <div class="col-sm-4">
                     <div class="team-member" >
-                        <img src="<?php echo base_url(); ?>assets/img/cp222.png" width="330px"  class="img-responsive img-circle" alt="">
+                        <img src="<?php echo base_url(); ?>assets/img/cp222.png" width="320px"  class="img-responsive img-circle" alt="">
                         <h2>Anindya Putri</h2> 
                         <h3 class="text-muted">(08117119891)
                         <br>
